@@ -1,16 +1,21 @@
-## Hi there 👋
+ 👋 Hi, I'm Ryan Musiyarira
 
-<!--
-**i-am-ryan/i-am-ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-Year BSc Information Systems Student  
+🌍 Johannesburg, South Africa  
+💻 Building tech for social good | Open to internships in Software, Cloud & DevOps
 
-Here are some ideas to get you started:
+## 🔗 Live Portfolio
+👉 [Harvest Hope Web App](https://harvest-hope-web.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills
+Python, Java, C#, JavaScript, HTML, CSS, Flask, AWS, React, SQL
+
+## 📁 Key Projects
+- [Harvest Hope](https://github.com/i-am-ryan/Harvest-Hope) – Full-stack food security web app with AI features
+- [Finance Tracker](https://github.com/i-am-ryan/Personal-finance-tracker-) – Budget tool with JavaScript & localStorage
+- [Python Projects](https://github.com/i-am-ryan/Python-projects) – Games & automation scripts
+
+## 📜 Certifications
+- [Coursera Certificates](https://github.com/i-am-ryan/Coursera-Certificates)
+- [Additional Certificates](https://github.com/i-am-ryan/Additional-Certificates)
+
